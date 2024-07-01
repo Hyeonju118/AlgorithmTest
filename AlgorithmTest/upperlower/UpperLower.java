@@ -1,4 +1,4 @@
-package upperlower;
+package AlgorithmTest.upperlower;
 
 public class UpperLower {
     public static void main(String[] args) {
