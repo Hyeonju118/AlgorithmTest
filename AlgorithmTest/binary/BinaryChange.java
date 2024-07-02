@@ -1,4 +1,4 @@
-package binary;
+package AlgorithmTest.binary;
 
 public class BinaryChange {
     public static void main(String[] args) {
