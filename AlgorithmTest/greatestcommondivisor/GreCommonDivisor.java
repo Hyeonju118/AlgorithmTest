@@ -1,4 +1,4 @@
-package greatestcommondivisor;
+package AlgorithmTest.greatestcommondivisor;
 
 public class GreCommonDivisor {
     public static void main(String[] args) {
