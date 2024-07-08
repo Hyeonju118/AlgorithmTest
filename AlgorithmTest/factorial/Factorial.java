@@ -1,4 +1,4 @@
-package factorial;
+package AlgorithmTest.factorial;
 import java.util.Scanner;
 
 public class Factorial {
