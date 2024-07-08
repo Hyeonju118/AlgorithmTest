@@ -1,4 +1,4 @@
-package manynum;
+package AlgorithmTest.src.manynum;
 
 import java.util.Scanner;
 
